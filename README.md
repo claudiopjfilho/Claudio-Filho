@@ -1,4 +1,4 @@
-### Olá  👋
+### Olá!  👋
 
 - Me chamo Cláudio, graduando em Análise e desenvolvimento de sistemas, sou Desenvolvedor Front-end Jr.
 
