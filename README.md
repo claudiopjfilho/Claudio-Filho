@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/claudiopjfilho.png" style="width:80px;height:80px;border-radius: 50%;">
+<img src="https://github.com/claudiopjfilho.png" style="width:80px;height:80px;border-radius: 10px 50%;">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
