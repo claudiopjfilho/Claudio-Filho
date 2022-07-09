@@ -1,6 +1,6 @@
 ### Olá!  👋
 
-- Me chamo Cláudio, graduando em Análise e desenvolvimento de sistemas, sou Desenvolvedor Front-end Jr.
+- Me chamo Cláudio, graduando em Análise e desenvolvimento de sistemas, foco em desenvolvimento web front-end.
 
 #### Atualmente uso
 <div>
