@@ -1,4 +1,4 @@
-<p align="left"><img src="https://github.com/claudiopjfilho" alt="claudiopjfilho" /></p>
+<p align="left"><img src="https://github.com/claudiopjfilho.png" alt="claudiopjfilho" /></p>
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align = "justify">- Me chamo Cláudio, graduando em Análise e desenvolvimento de sistemas, foco em desenvolvimento web front-end.</p>
@@ -23,7 +23,7 @@
 </div>
 
 
-
+## ⚡ GitHub Stats
 
 <div style="display: flex; flex-direction:row;">
 <a href="https://github.com/claudiopjfilho">
@@ -62,7 +62,4 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=claudiopjfilho&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiopjfilho&hide=TeX&layout=compact)
