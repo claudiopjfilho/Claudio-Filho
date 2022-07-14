@@ -22,21 +22,6 @@
 <a href="https://www.linkedin.com/in/cl%C3%A1udio-filho-45617a1a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-## ⚡ GitHub Stats
-
-<div style="display: flex; flex-direction:row;">
-<a href="https://github.com/claudiopjfilho">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiopjfilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiopjfilho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-
-
-
-
 ## 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -61,5 +46,24 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+
+
+
+
+
+
+## ⚡ GitHub Stats
+
+<div style="display: flex; flex-direction:row;">
+<a href="https://github.com/claudiopjfilho">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiopjfilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiopjfilho&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
+
 
 
