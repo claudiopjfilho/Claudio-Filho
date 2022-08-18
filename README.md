@@ -10,10 +10,10 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
   <hr>
-  
+  <div>
 <h2 align="center">
 Front-end Development:
- 
+ </div> 
  
 <div align="center"><br>
   <img align="center" alt="claudiopjfilho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,9 +22,9 @@ Front-end Development:
   <img align="center" alt="claudiopjfilho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="claudiopjfilho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="claudiopjfilho-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-   <img align="center" alt="claudiopjfilho-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg
+   <img align="center" alt="claudiopjfilho-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
                                                                                   </div>
-  <hr>
+  <hr><br>
   
  <h2 align="center">
 Back-end Development:
