@@ -30,7 +30,7 @@ Front-end Development:
 <hr>
   <div>
 <h2 align="center">
-Front-end Development:
+Back-end Development:
  </div>
  
   <div align="center"><br>
@@ -40,6 +40,7 @@ Front-end Development:
   <img align="center" alt="claudiopjfilho-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">
   </div>
  <div align="center"><br>
+  <hr>
   
 ### Contact:
 
