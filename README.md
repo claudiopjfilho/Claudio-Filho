@@ -1,6 +1,6 @@
 
 
-<h1 align = "justify"> Olá,seja bem vindo ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align = "center"> Olá,seja bem vindo ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 
 
