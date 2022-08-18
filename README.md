@@ -1,7 +1,7 @@
 
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<p align = "justify">- Me chamo Cláudio, graduando em Análise e desenvolvimento de sistemas, foco em desenvolvimento web front-end.</p>
+<h1 align = "justify"> Olá,seja bem vindo ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
 
 
 
@@ -10,8 +10,11 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
   <hr>
-<h4 align="center">
-## Atualmente uso
+  
+<h2 align="center">
+ Atualmente uso
+ 
+ 
 <div align="center"><br>
   <img align="center" alt="claudiopjfilho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="claudiopjfilho-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -71,14 +74,7 @@ I'm learning at the moment *ReactJS
 
   
 <hr>
-<h4 align="center">
-Hi! I´m Juliana, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<hr>
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
-  <hr>
 
  
  
