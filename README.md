@@ -51,10 +51,6 @@ Back-end Development:
 </div>
 
   <hr>
-  
-
-  
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=claudiopjfilhoa&left_color=green&right_color=red)
 
 <hr>
   
